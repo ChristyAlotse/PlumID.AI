@@ -1,0 +1,6 @@
+huggingface_hub==0.30.2
+Pillow==11.2.1
+streamlit==1.22.0
+timm==1.0.15
+torch==2.6.0
+torchvision==0.21.0
